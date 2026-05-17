@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🌍 Tourist Guide Portfolio
@@ -79,7 +80,7 @@ Land on home → See hero → Explore professional tours → Navigate to section
 
 <div align="center">
 
-📧 [your@email.com](mailto:your@email.com) &nbsp;|&nbsp; 📱 +250 XXX XXX XXX
+📧 [tuyiringirefabrice833@gmail.com](mailto:tuyiringirefabrice833@gmail.com) &nbsp;|&nbsp; 📱 +250796305892
 
 ---
 
@@ -124,8 +125,8 @@ Planned improvements:
 
 If you'd like to help improve this portfolio or review the project, feel free to reach out:
 
-- Email: [your@email.com](mailto:your@email.com)
-- WhatsApp: +250 700 000 000
+- Email: [tuyiringirefabrice833@gmail.com](mailto:tuyiringirefabrice833@gmail.com)
+- WhatsApp: +250796305892
 
 ---
 
