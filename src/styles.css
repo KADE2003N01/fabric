@@ -12,6 +12,7 @@
   --primary-soft: #5cc794;
   --accent: #dfc6a0;
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.22);
+
 }
 
 /* -------------------------- */
@@ -39,6 +40,7 @@ img {
   width: 100%;
   height: auto;
 }
+
 
 a {
   color: inherit;
@@ -335,7 +337,7 @@ nav {
   color: var(--text);
 }
 
-..stat span {
+.stat span {
   display: block;
   margin-top: 0.35rem;
   color: var(--muted);
@@ -639,7 +641,7 @@ nav {
 .lightbox-prev { left: 1.2rem; }
 .lightbox-next { right: 1.2rem; }
 
-
+/*
   position: fixed;
   top: 1.2rem;
   right: 1.4rem;
@@ -654,7 +656,7 @@ nav {
   display: grid;
   place-items: center;
   transition: background 0.2s ease;
-}
+} */
 
 .lightbox-close:hover {
   background: rgba(255,255,255,0.2);
